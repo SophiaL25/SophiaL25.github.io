@@ -32,17 +32,18 @@
 
 # Project
 
-## Moteus Controller Project (December 2022 - Current)
+### Moteus Controller Project (December 2022 - Current)
 > Moteus Controller project at UW sponsored by Amazon, to build a Amazon warehouse controller with innovative design. Working as a data programmer / data anlytist to build and analyze a controller acceleration, velocity, position, torque and other operational data using python.
 
-## Clustering Project (March 2022 - September 2022)
+### Clustering Project (March 2022 - September 2022)
 > Personal project to develop a basic neural network with an open source community through SkitLearn, focusing on analyzing patterns of various regression, classification and clustering models using different forms of dataset with a use of machine learning operating systems.
 
-## SpaceX's Life on Mars (June 2021 - September 2021)
+### SpaceX's Life on Mars (June 2021 - September 2021)
 > Research student at UW to investigate SpaceX's CRS-22 mission with NASA and the spacecraft's infrastructure with their softwares that enables communication between Mars and the Earth.
 
 
 
-**Hyperlinks:**
+
+# **Hyperlinks:**
 - [**Paul G. Allen Center for Computer Science & Engineering**](https://www.cs.washington.edu)
 - [**Samsung SDS**](https://www.samsungsds.com/us/index.html)
