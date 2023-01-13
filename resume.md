@@ -2,7 +2,7 @@
 
 
 
-    -  Currently a senior majoring in Geography with Data Science track, seeking for a data analytics job.
+    Currently a senior majoring in Geography with Data Science track, seeking for a data analytics job.
 
 
 # Summary
