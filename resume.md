@@ -1,6 +1,9 @@
 # Sophia Lee
 
-Currently a senior majoring in Geography with Data Science track, seeking for a data analytics job.
+
+
+    -  Currently a senior majoring in Geography with Data Science track, seeking for a data analytics job.
+
 
 # Summary
 
@@ -14,7 +17,7 @@ Currently a senior majoring in Geography with Data Science track, seeking for a 
 
 * [University of Washington]
 
- ** CSE 142 Teacher Assitant ** (September 2021 - January 2022)
+ **CSE 142 Teacher Assitant** (September 2021 - January 2022)
 
 Summary of your role
 
@@ -26,7 +29,7 @@ Summary of your role
 
 * [Samsung Data System]
 
-** AI Analytics Intern ** (November 2020 - Aprill 2021)
+**AI Analytics Intern** (November 2020 - Aprill 2021)
 
 Summary of your role
 
@@ -48,5 +51,5 @@ Summary of your role
 
 
 **Hyperlinks:**
-[**Paul G. Allen Center for Computer Science & Engineering](https://www.cs.washington.edu)
-[Samsung SDS](https://www.samsungsds.com/us/index.html)
+- [**Paul G. Allen Center for Computer Science & Engineering](https://www.cs.washington.edu)
+- [Samsung SDS](https://www.samsungsds.com/us/index.html)
