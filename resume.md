@@ -16,7 +16,7 @@
 
 ## Paul G. Allen Center for Computer Science & Engineering (Seattle, WA)
 
-###**CSE 142 Teacher Assitant** (September 2021 - January 2022)
+### **CSE 142 Teacher Assitant** (September 2021 - January 2022)
 
 - **Communication** through teaching 25 students and having an office hour.
 - **Self-Learning** through various programming resources.
@@ -24,7 +24,7 @@
 
 ## Samsung SDS (Seoul, Korea)
 
-###**AI Analytics Intern** (November 2020 - Aprill 2021)
+### **AI Analytics Intern** (November 2020 - Aprill 2021)
 
 - **Time management** through working on multiple projects at the same time.
 - **Collaboration** through working with various teams wihtin a company.
