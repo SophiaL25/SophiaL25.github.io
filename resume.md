@@ -47,6 +47,6 @@ Summary of your role
 
 
 
-
-[Paul G. Allen Center for Computer Science & Engineering]: https://www.cs.washington.edu
-[Samsung SDS]: https://www.samsungsds.com/us/index.html
+**Hyperlinks:**
+[**Paul G. Allen Center for Computer Science & Engineering](https://www.cs.washington.edu)
+[Samsung SDS](https://www.samsungsds.com/us/index.html)
