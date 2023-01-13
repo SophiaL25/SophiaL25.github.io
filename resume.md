@@ -1,4 +1,5 @@
 # Sophia Lee
+![profile picture](assets/img/profile.jpeg)
 
 
 
